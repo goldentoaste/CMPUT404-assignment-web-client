@@ -16,7 +16,7 @@
 
 # Do not use urllib's HTTP GET and POST mechanisms.
 # Write your own HTTP GET and POST
-# The point is to understand what you have to send and get experience with it
+# The point is to understand what you have to send and get experience with it 
 
 import sys
 import socket
